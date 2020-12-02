@@ -8,6 +8,7 @@
 * Unity
 * Blender
 * Garageband
+* CLIPSTUDIO PAINT
 
 ## 制作
 ### 2Dデザイン
